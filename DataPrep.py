@@ -3,7 +3,7 @@ import pandas as pd
 
 def fetch_weather_data():
 
-    url = f"https://financialmodelingprep.com/api/v3/stock/list?apikey=sAwXE7JiCPGDKvTnwZ7j6eqqeuHfAs6R"
+    url = f"https://financialmodelingprep.com/api/v3/stock/list?apikey=xxx"
     
     
     # HTTP GET request
